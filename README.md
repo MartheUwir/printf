@@ -1,20 +1,7 @@
-
+by respecting betty's coding style and betty's documentation style
 0x11. C - printf
 C
-Group project
- By: Julien Barbier, co-founder & CEO
- Weight: 5
- Project to be done in teams of 2 people (your team: Uwiringiyimana Marthe, Aalaa Abdelfattah)
- Project will start Apr 21, 2023 6:00 AM, must end by Apr 26, 2023 6:00 AM
- Checker will be released at Apr 22, 2023 12:00 PM
- An auto review will be launched at the deadline
-Concepts
-For this project, we expect you to look at these concepts:
 
-Group Projects
-Pair Programming - How To
-Flowcharts
-Technical Writing
 Background Context
 Write your own printf function.
 
@@ -258,7 +245,7 @@ Best\x0ASchool
 alex@ubuntu:~/c/printf$
 Repo:
 
-GitHub repository: printf
+
  
 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
 #advanced
